@@ -1,0 +1,15 @@
+{
+    "documents": [
+      {
+        "id": 1,
+        "title": "How to Set Up a New Source in Segment",
+        "content": "To set up a new source in Segment, go to the Segment dashboard, click 'Add Source', and follow the setup process..."
+      },
+      {
+        "id": 2,
+        "title": "How to Create a User Profile in mParticle",
+        "content": "To create a user profile in mParticle, first, navigate to the 'Profiles' section, click 'Add Profile', and input user details..."
+      }
+    ]
+  }
+  
